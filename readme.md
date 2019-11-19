@@ -9,7 +9,7 @@
  1. Double click on the python file ("converter.py") to run the script
  1. A file called "il-places.js" should appear in the folder containing the script
  1. Save "il-places.js" to GitHub:
-   1. Navigate to [Joshua's fork of dpla-frontend](https://github.com/jlynch2121/dpla-frontend/tree/master/constants)
-   1. Choose the correct branch [master]
-   1. Navigate to the "constants" subdirectory
-   1. Delete the current il-places.js file in the directory and upload the new JavaScript file you just created
+   - Navigate to [Joshua's fork of dpla-frontend](https://github.com/jlynch2121/dpla-frontend/tree/master/constants)
+   - Choose the correct branch [master]
+   - Navigate to the "constants" subdirectory
+   - Delete the current il-places.js file in the directory and upload the new JavaScript file you just created
