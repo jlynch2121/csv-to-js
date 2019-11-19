@@ -11,4 +11,5 @@
  1. Save "il-places.js" to GitHub:
    1. Navigate to [Joshua's fork of dpla-frontend](https://github.com/jlynch2121/dpla-frontend/tree/master/constants)
    1. Choose the correct branch [master]
-   1. Delete the current il-places.js file in the directory and upload the new file you just created
+   1. Navigate to the "constants" subdirectory
+   1. Delete the current il-places.js file in the directory and upload the new JavaScript file you just created
