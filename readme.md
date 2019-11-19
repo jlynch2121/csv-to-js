@@ -1,5 +1,5 @@
 # csv-to-js
-  Simple python script for converting a csv file to a JavaScript array of objects
+  Simple python script for converting a csv file to a JavaScript array of objects. This script was created for generating machine-readable data from a CSV file for features on the [Illinois Digital Heritage Hub's website](https://idhh.dp.la).
 
 ## How to convert a CSV file to JavaScript
  1. Use the data template provided on Google Drive. Please do not relabel the headers. Spreadsheet header titles should be one word and enclosed in tildes [~]
