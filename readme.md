@@ -4,7 +4,7 @@
 ## How to convert a CSV file to JavaScript
  1. Use the data template provided on Google Drive. Please do not relabel the headers. Spreadsheet header titles should be one word and enclosed in tildes [~]
  1. Curate data in Google Sheets. Do not use tildes [~] or double quotes. If quotations are necessary, please use single quotes. Do not use markup or markdown
-     - The base URL for the ~searchTerm~ column values is: https://idhh.dp.la/search?location=
+     - The base URL for the searchTerm column values is: https://idhh.dp.la/search?location=
  1. Save spreadsheet data as a CSV file in the same folder as the converter script. Save the file as "il-places.csv"
  1. Navigate to the folder containing the converter script
  1. Double click on the python file ("converter.py") to run the script
